@@ -1,4 +1,4 @@
-# Data-Analytics-Tasks
+# Data-Analytics-Projects
 Set of real world data science tasks completed using the Python Pandas library.
 We start by cleaning our data. Tasks during this section include:
 
